@@ -1,0 +1,250 @@
+[
+  {
+    "description": "Reach Ante 4",
+    "displayName": "Ante Up!",
+    "hidden": 0,
+    "icon": "achievement_images/8cddd631acb7f6438c486c05311743c81bb6c87c.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_01"
+  },
+  {
+    "description": "Reach Ante 8",
+    "displayName": "Ante Upper!",
+    "hidden": 0,
+    "icon": "achievement_images/6c56b680fef6cfc0b791b97373e811c1a5ff1d37.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_02"
+  },
+  {
+    "description": "Win a Run",
+    "displayName": "Heads Up",
+    "hidden": 0,
+    "icon": "achievement_images/4a2956c85b5372509a57f8921918aee458058bdf.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_03"
+  },
+  {
+    "description": "Win a run on at least Red Stake difficulty",
+    "displayName": "Low Stakes",
+    "hidden": 0,
+    "icon": "achievement_images/dd13d58459711c378794da939b08b7983f346176.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_04"
+  },
+  {
+    "description": "Win a run on at least Black Stake difficulty",
+    "displayName": "Mid Stakes",
+    "hidden": 0,
+    "icon": "achievement_images/753ee8cabb8f63c415c4e44970c8c63b37700754.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_05"
+  },
+  {
+    "description": "Win a run on at least Gold Stake difficulty",
+    "displayName": "High Stakes",
+    "hidden": 0,
+    "icon": "achievement_images/164a6270413fdb6471db4a09fa9ae76e4b18e7de.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_06"
+  },
+  {
+    "description": "Play at least 2500 Cards",
+    "displayName": "Card Player",
+    "hidden": 0,
+    "icon": "achievement_images/89a52d2490b3bb30b3ebd4d78e6ba42ad9a32256.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_07"
+  },
+  {
+    "description": "Discard at least 2500 Cards",
+    "displayName": "Card Discarder",
+    "hidden": 0,
+    "icon": "achievement_images/7cda764a01ac1404ac3f194450e8311d259b412e.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_08"
+  },
+  {
+    "description": "Have $400 or more during a single run",
+    "displayName": "Nest Egg",
+    "hidden": 0,
+    "icon": "achievement_images/0e5333b2b6d782317610e6ccf8f9aebddbc24ada.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_09"
+  },
+  {
+    "description": "Play a Flush with 5 Wild Cards",
+    "displayName": "Flushed",
+    "hidden": 0,
+    "icon": "achievement_images/f72d11c67a949f737fe19e85b205d267fbd455dd.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_10"
+  },
+  {
+    "description": "Win a run in 12 or fewer rounds",
+    "displayName": "Speedrunner",
+    "hidden": 0,
+    "icon": "achievement_images/85e03184c5c9c00e79bf217a93b961d92b593b67.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_11"
+  },
+  {
+    "description": "Buy 5 Vouchers by the end of Ante 4",
+    "displayName": "ROI",
+    "hidden": 0,
+    "icon": "achievement_images/bedc566356cd2aff01c364c5d28e457398cbf8db.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_12"
+  },
+  {
+    "description": "Break 2 Glass Cards in a single hand",
+    "displayName": "Shattered",
+    "hidden": 0,
+    "icon": "achievement_images/383447ec9308e23b1297fab0a12f45539d4e38c6.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_13"
+  },
+  {
+    "description": "Play a Royal Flush",
+    "displayName": "Royale",
+    "hidden": 0,
+    "icon": "achievement_images/f96657ac51a7cfb76a0afbb92362593d1d7e2c3f.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_14"
+  },
+  {
+    "description": "Get any poker hand to level 10",
+    "displayName": "Retrograde",
+    "hidden": 0,
+    "icon": "achievement_images/6aaeb4d4b25e178e91315425a8b9d3e204ecd898.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_15"
+  },
+  {
+    "description": "Score 10,000 Chips in a single hand",
+    "displayName": "10K",
+    "hidden": 0,
+    "icon": "achievement_images/42bc43d7171bf1e590e3704a1045563eacc9215c.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_16"
+  },
+  {
+    "description": "Score 1,000,000 Chips in a single hand",
+    "displayName": "1,000K",
+    "hidden": 0,
+    "icon": "achievement_images/a55b642e2986b818a9e2c56cfddcc8213b26682e.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_17"
+  },
+  {
+    "description": "Score 100,000,000 Chips in a single hand",
+    "displayName": "100,000K",
+    "hidden": 0,
+    "icon": "achievement_images/cb2cfe6cd88e1c1769f20ba36c7ff1ead7ec0242.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_18"
+  },
+  {
+    "description": "Thin your deck down to 20 or fewer cards",
+    "displayName": "Tiny Hands",
+    "hidden": 0,
+    "icon": "achievement_images/1bb6658790b45b6c1efd1fac68c45d5646853bdc.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_19"
+  },
+  {
+    "description": "Have 80 or more cards in your deck",
+    "displayName": "Big Hands",
+    "hidden": 0,
+    "icon": "achievement_images/dbfd0636fdbaa4bfcfa7ac79eaed51d99f45d242.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_20"
+  },
+  {
+    "description": "Win a run without rerolling the shop",
+    "displayName": "You Get What You Get",
+    "hidden": 0,
+    "icon": "achievement_images/ef51600bad9ee0f338cde583d16a786ee3032536.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_21"
+  },
+  {
+    "description": "Complete any challenge run",
+    "displayName": "Rule Bender",
+    "hidden": 0,
+    "icon": "achievement_images/420bcf57f3779a3afea55904d06fe1e5e40cadac.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_22"
+  },
+  {
+    "description": "Complete every challenge run",
+    "displayName": "Rule Breaker",
+    "hidden": 0,
+    "icon": "achievement_images/aae8438a6f5b9b719b1027052f05727cdcd4b634.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_23"
+  },
+  {
+    "description": "Discover a Legendary Joker",
+    "displayName": "Legendary",
+    "hidden": 0,
+    "icon": "achievement_images/4dc9bf05aaa990f8547eae90ae9dafecccaa9374.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_24"
+  },
+  {
+    "description": "Discover every Planet card",
+    "displayName": "Astronomy",
+    "hidden": 0,
+    "icon": "achievement_images/0decda8e30aca1c09e7ea411f2e677232a581c83.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_25"
+  },
+  {
+    "description": "Discover every Tarot card",
+    "displayName": "Cartomancy",
+    "hidden": 0,
+    "icon": "achievement_images/e873e467487b547fba760f7b8b8ce93c179c5e3e.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_26"
+  },
+  {
+    "description": "Discover every Spectral card",
+    "displayName": "Clairvoyance",
+    "hidden": 0,
+    "icon": "achievement_images/6fc77ec70586d4a4ec395b10af1c0276fe0cdc72.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_27"
+  },
+  {
+    "description": "Discover every Voucher",
+    "displayName": "Extreme Couponer",
+    "hidden": 0,
+    "icon": "achievement_images/0471d9277d26ba9f758ce01e6bab8f1687e81228.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_28"
+  },
+  {
+    "description": "Discover 100% of your collection",
+    "displayName": "Completionist",
+    "hidden": 0,
+    "icon": "achievement_images/9d3264dc164752ac2a7ada67cdabe33721ce42b0.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_29"
+  },
+  {
+    "description": "Win with every deck on Gold Stake difficulty",
+    "displayName": "Completionist+",
+    "hidden": 0,
+    "icon": "achievement_images/64787b53a89f5588b021d8198c94a657ba101c3e.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_30"
+  },
+  {
+    "description": "Earn a Gold Sticker on every Joker",
+    "displayName": "Completionist++",
+    "hidden": 0,
+    "icon": "achievement_images/61e80b0eb403fed6e631bc7869c7f9d9839b80cb.jpg",
+    "icongray": "achievement_images/ad373492702cfa73ca588a9dd7d5325511c2bae1.jpg",
+    "name": "BAL_31"
+  }
+]
